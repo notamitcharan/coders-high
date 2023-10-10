@@ -3,10 +3,9 @@ md repository for coders high
 
 
 \[
-\begin{bmatrix}
+\left|\begin{array}{cc}
 a & b \\
 c & d \\
 e & f \\
-\end{bmatrix}
+\end{array}\right|
 \]
-
